@@ -1,5 +1,1 @@
-- electron
-- nestjs
-- nextjs
-- reactjs
-- taro
+- web developer
